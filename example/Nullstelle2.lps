@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Nullstelle2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="24"/>
+        <CursorPos X="84" Y="40"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+        <UnitName Value="NewtonsMethod"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="47"/>
+        <CursorPos X="17" Y="74"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+        <Caret Line="33" Column="7" TopLine="9"/>
+      </Position1>
+      <Position2>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+        <Caret Line="25" Column="69" TopLine="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+        <Caret Line="18" Column="43" TopLine="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+        <Caret Line="25" Column="40" TopLine="9"/>
+      </Position4>
+      <Position5>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+        <Caret Line="22" Column="17" TopLine="3"/>
+      </Position5>
+      <Position6>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+        <Caret Line="64" Column="9" TopLine="39"/>
+      </Position6>
+      <Position7>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+        <Caret Line="21" Column="30" TopLine="12"/>
+      </Position7>
+      <Position8>
+        <Filename Value="../../../../private/Lazarus/packages/newton/newtonsmethod.pas"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Nullstelle2.lpr"/>
+        <Caret Line="54" Column="23" TopLine="24"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Nullstelle2.lpr"/>
+        <Caret Line="40" Column="84" TopLine="26"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
