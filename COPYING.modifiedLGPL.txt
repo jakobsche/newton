@@ -1,7 +1,5 @@
-This is the file COPYING.modifiedLGPL.txt, it applies to the units in these
-Lazarus packages sources distributed by Andreas Jakobsche.
-All files contain headers showing the appropriate license. See there if this
-modification can be applied.
+This is the file COPYING.modifiedLGPL.txt, it applies to the units in this
+Lazarus package sources distributed by Andreas Jakobsche.
 
 These files are distributed under the Library GNU General Public License
 (see the file COPYING.LGPL.txt) with the following modification:
